@@ -118,8 +118,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📬 Contact
 
-Daksh Rana - [dakshrana1410@gmail.com](mailto:dakshrana1410@gmail.com)
-
-Project Link: [https://github.com/yourusername/datadeck](https://github.com/yourusername/datadeck)
