@@ -1,7 +1,7 @@
 # Data Deck
 
 <div align="center">
-  <img src="public/favicon.ico" alt="Data Deck Logo" width="80" />
+  <img src="lib/landing-page.png" alt="Data Deck Logo" width="80" />
   <h3 align="center">The Ultimate Toolkit for Dynamic Data Tables</h3>
   <p align="center">
     A powerful, customizable Next.js application for creating beautiful interactive data tables
