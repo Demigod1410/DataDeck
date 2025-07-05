@@ -4,7 +4,7 @@ import { ThemeProvider } from '@/components/theme-provider';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'Data Deck',
+  title: 'DataDeck',
   description: 'A dynamic table application built with Next.js',
 };
 

@@ -18,7 +18,7 @@ export default function LandingPage() {
             height={24} 
             className="rounded-sm"
           />
-          Data Deck
+          DataDeck
         </Link>
         <nav className="ml-auto flex gap-4 sm:gap-6 items-center">
           <Link
